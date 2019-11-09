@@ -1,2 +1,2 @@
-# problemgen
-inno.ege.problem.gen
+# ProblemCreator
+
