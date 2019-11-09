@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/tr0llfeed/ProblemCreator/master/Dragon.png"
 alt="Your image title" width="128"/>
 
-![](https://img.shields.io/github/v/release/tr0llfeed/ProblemCreator?style=flat-square) ![](https://img.shields.io/github/downloads/tr0llfeed/ProblemCreator/total?style=flat-square) ![](https://img.shields.io/github/last-commit/tr0llfeed/ProblemCreator?style=flat-square) ![](https://img.shields.io/github/commit-activity/m/tr0llfeed/ProblemCreator?style=flat-square) 
+![](https://img.shields.io/github/v/release/tr0llfeed/ProblemCreator?style=flat-square) ![](https://img.shields.io/github/downloads/tr0llfeed/ProblemCreator/total?style=flat-square) ![](https://img.shields.io/github/last-commit/tr0llfeed/ProblemCreator?style=flat-square) ![](https://img.shields.io/github/commit-activity/w/tr0llfeed/ProblemCreator?style=flat-square) 
 
 
 
